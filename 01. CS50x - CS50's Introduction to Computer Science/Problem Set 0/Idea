@@ -1,0 +1,19 @@
+Project Software: Scratch
+
+THEME: A retro car racing game.
+COMPONENTS.
+    1. Car 
+    2. Track
+        a. Horizontal Roads for traveling
+        b. Vertical Roads for intersections
+    3. Obstacles
+        a. Other Cars
+        b. Holes
+        c. People
+        d. Traffic Light
+        e. Stop/Slow sign
+        f. Police Car
+    4. Speedometer
+    5. Distance/Indicator between Police Cars
+    6. Distance Traveled
+    7. Caught Screen
